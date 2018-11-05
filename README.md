@@ -41,7 +41,7 @@ Use the Abstract Factory pattern when
 * you want to provide a class library of products, and you want to reveal just their interfaces, not their implementations.
 
 ## Structure
-[Abstract Factory Pattern Structure](/resources/images/abstract-factory-structure.png)
+![Abstract Factory Pattern Structure](/resources/images/abstract-factory-structure.png)
 
 ## Participants
 
